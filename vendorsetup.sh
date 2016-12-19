@@ -22,3 +22,4 @@
 
 add_lunch_combo full_draconis-eng
 add_lunch_combo cm_draconis-userdebug
+add_lunch_combo pac_draconis-userdebug
