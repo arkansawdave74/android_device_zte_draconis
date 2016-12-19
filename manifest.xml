@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <manifest>   
+       <project path="device/zte/draconis" name="/home/arkansawdave74/android/draconis/cm12.1/android_device_zte_draconis-cm12.1" remote="github" revision="cm12.1" />
+       <project path="vendor/zte/draconis" name="/home/arkansawdave74/android/draconis/cm12.1/android_vendor_zte_draconis-cm12.1" remote="github" revision="cm12.1" />
+       <project path="kernel/zte/draconis" name="/home/arkansawdave74/android/draconis/cm12.1/android_kernel_zte_draconis-cm12.1" remote="github" revision="cm12.1" />
