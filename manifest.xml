@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
   <manifest>   
-       <project path="device/zte/draconis-cm12.1" name="/home/arkansawdave74/android/pac/device/zte/draconis-cm12.1" remote="github" revision="cm12.1" />
-       <project path="vendor/zte/draconis-cm12.1" name="/home/arkansawdave74/android/pac/vendor/zte/draconis-cm12.1" remote="github" revision="cm12.1" />
-       <project path="kernel/zte/draconis-cm12.1" name="/home/arkansawdave74/android/pac/kernel/zte/draconis-cm12.1" remote="github" revision="cm12.1" />
-       <project path="device/qcom/common-cm-12.1" name="/home/arkansawdave74/android/pac/device/qcom/common-cm-12.1" remote="github" revision="cm-12.1" />
+       <project path="device/zte/draconis-cm12.1" name="/device/zte/draconis-cm12.1" remote="github" revision="cm12.1" />
+       <project path="vendor/zte/draconis-cm12.1" name="/vendor/zte/draconis-cm12.1" remote="github" revision="cm12.1" />
+       <project path="kernel/zte/draconis-cm12.1" name="/kernel/zte/draconis-cm12.1" remote="github" revision="cm12.1" />
+       <project path="device/qcom/common-cm-12.1" name="/device/qcom/common-cm-12.1" remote="github" revision="cm-12.1" />
   </manifest>
