@@ -1,10 +1,10 @@
 assert(getprop("ro.product.device") == "draconis" || getprop("ro.build.product") == "draconis" || abort("This package is for device: draconis; this device is " + getprop("ro.product.device") + "."););
 ui_print("::::::::::::::::::::::::::::::::");
 ui_print("::                            ::");
-ui_print("::       CyanogenMod 12.1     ::");
+ui_print("::       PAC-ROM 5.1.1        ::");
 ui_print("::       For ZTE ZMAX         ::");
 ui_print("::                            ::");
-ui_print("::         by hroark13        ::");
+ui_print("::      by arkansawdave74     ::");
 ui_print("::                            ::");
 ui_print("::                            ::");
 ui_print("::                            ::");
