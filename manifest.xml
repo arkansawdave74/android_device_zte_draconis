@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <manifest>   
+       <project path="device/zte/draconis" name="arkansawdave74/android_device_zte_draconis" remote="github" revision="cm13" />
+       <project path="vendor/zte/draconis" name="arkansawdave74/android_vendor_zte_draconis" remote="github" revision="cm13" />
+       <project path="kernel/zte/draconis" name="arkansawdave74/android_kernel_zte_draconis" remote="github" revision="cm13" />
+       <project path="device/qcom/common" name="arkansawdave74/android_device_qcom_common" remote="github" revision="cm-13" />
+  </manifest>
